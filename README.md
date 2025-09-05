@@ -46,3 +46,17 @@ Lo schema elettrico è allegato in formato PDF nella cartella `/schema-kicad-9`.
 - [Schema elettrico impianto (formato PDF)](https://github.com/fremsoft/solar-energy/blob/main/schema-kicad-9/schema-impianto.pdf)
 
 ---
+
+
+## 📑 Manuale di istruzioni 
+Il manuale di istruzioni del costruttore è allegato in formato PDF qui di seguito, con le opzioni da configurare ben evidenziate:
+
+- [Manuale di istruzioni (formato PDF)](https://github.com/fremsoft/solar-energy/blob/main/Manuale_impianto_solare.pdf)
+
+---
+
+## 📈 Calcolatore punto di pareggio
+Se vuoi fare una stima del punto di pareggio del tuo impianto solare, scarica il seguente foglio di calcolo:  
+
+- [Calcolatore punto di pareggio per impianto solare (formato XLSX)](https://github.com/fremsoft/solar-energy/blob/main/Calcolo_Pareggio_Inverter_Solare.xlsx)
+
