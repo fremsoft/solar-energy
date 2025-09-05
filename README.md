@@ -58,5 +58,5 @@ Il manuale di istruzioni del costruttore è allegato in formato PDF qui di segui
 ## 📈 Calcolatore punto di pareggio
 Se vuoi fare una stima del punto di pareggio del tuo impianto solare, scarica il seguente foglio di calcolo:  
 
-- [Calcolatore punto di pareggio per impianto solare (formato XLSX)](https://github.com/fremsoft/solar-energy/blob/main/Calcolo_Pareggio_Inverter_Solare.xlsx)
+- [Calcolatore punto di pareggio per impianto solare (formato XLSX)](https://github.com/fremsoft/solar-energy/raw/refs/heads/main/Calcolo_Pareggio_Inverter_Solare.xlsx)
 
